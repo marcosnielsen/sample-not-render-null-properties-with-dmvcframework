@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/09/07 09:54:33.093,=C:\Users\marco\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/09/07 09:54:33.601,=C:\Users\marco\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2023/09/08 09:59:37.050,C:\Users\marco\OneDrive\Documentos\SoProgramando\Demo Como evitar a serialização  de propriedades nulas usando DelphiMVCFramework\Unit1.pas=C:\Users\marco\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/09/08 09:59:38.184,C:\Users\marco\OneDrive\Documentos\SoProgramando\Demo Como evitar a serialização  de propriedades nulas usando DelphiMVCFramework\Unit2.pas=C:\Users\marco\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2023/09/08 09:59:38.184,C:\Users\marco\OneDrive\Documentos\SoProgramando\Demo Como evitar a serialização  de propriedades nulas usando DelphiMVCFramework\Unit2.dfm=C:\Users\marco\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2023/09/08 09:59:39.432,C:\Users\marco\OneDrive\Documentos\SoProgramando\Demo Como evitar a serialização  de propriedades nulas usando DelphiMVCFramework\Project1.dproj=C:\Users\marco\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
